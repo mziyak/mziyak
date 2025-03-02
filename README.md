@@ -25,7 +25,7 @@ Hi 👋 HR's, I'm Mohammad Ziya Khalifa
 </h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mziyak/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="[https://img.shields.io/badge/LinkedIn-%230A66C2](https://www.linkedin.com/in/ziyakhalifa/)?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mohammadziyakhalifa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
