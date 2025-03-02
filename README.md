@@ -11,18 +11,6 @@ Hi 👋 HR's, I'm Mohammad Ziya Khalifa
 
 ---
 
-### 🔮 Most Used Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mziyak&layout=compact&theme=radical" width="48%" />
-</p>
-
-### 🔍 Contributions Graph
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mziyak&theme=radical" />
-</p>
-
----
-
 ### 🤖 Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,pandas,numpy,pytorch,tensorflow,mysql,postgres,anaconda,flask,html,css,js,jupyter,kaggle,vscode" />
@@ -33,9 +21,13 @@ Hi 👋 HR's, I'm Mohammad Ziya Khalifa
 ### 👤 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/mziyak/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mohammadziyakhalifa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 🚀 These are my projects!
