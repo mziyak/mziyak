@@ -12,7 +12,7 @@ Hi 👋 HR's, I'm Mohammad Ziya Khalifa
 ---
 
 <h3 align="left" style="font-family:monospace; color:#00ffff; text-shadow: 0px 0px 15px #00ffff;">
-🤖 SKILLS
+🤖 Tech Stack
 </h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,mysql,postgres,anaconda,flask,html,css,js,vscode" />
@@ -24,8 +24,8 @@ Hi 👋 HR's, I'm Mohammad Ziya Khalifa
 👤 Connect with Me
 </h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mziyak/" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-%230A66C2](https://www.linkedin.com/in/ziyakhalifa/)?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ziyakhalifa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mohammadziyakhalifa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -35,5 +35,5 @@ Hi 👋 HR's, I'm Mohammad Ziya Khalifa
 ---
 
 <h3 align="left" style="font-family:monospace; color:#00ffff; text-shadow: 0px 0px 15px #00ffff;">
-🚀 These are my projects!
+🚀 These are my projects!
 </h3>
