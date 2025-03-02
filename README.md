@@ -11,7 +11,7 @@ Hi 👋 HR's, I'm Mohammad Ziya Khalifa
 
 ---
 <h3 align="left" style="font-family:monospace; color:#00ffff; text-shadow: 0px 0px 15px #00ffff;">
-🤖 SKILLS
+🤖 TOOLS
 </h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,mysql,postgres,anaconda,flask,html,css,js,vscode" />
