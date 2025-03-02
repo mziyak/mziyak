@@ -11,12 +11,6 @@ Hi 👋 HR's, I'm Mohammad Ziya Khalifa
 
 ---
 
-### 🏆 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mziyak&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mziyak&theme=radical" width="48%" />
-</p>
-
 ### 🔮 Most Used Languages
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mziyak&layout=compact&theme=radical" width="48%" />
