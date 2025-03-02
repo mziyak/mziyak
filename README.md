@@ -4,19 +4,23 @@ Hi 👋 HR's, I'm Mohammad Ziya Khalifa
 
 <p align="left" style="font-family:monospace; color:#00ffff; text-shadow: 0px 0px 15px #00ffff;">
   Exploring the world of AI and Data Science, one algorithm at a time.<br><br>
-  🧑‍💻 All of my projects are available at <a href="https://github.com/mziyak" target="_blank" style="color:#00ffff;">GitHub</a><br><br>
-  💎 How to reach me: <a href="mailto:mohammadziyakhalifa@gmail.com" style="color:#00ffff;">mohammadziyakhalifa@gmail.com</a><br><br>
-  ⚡ Fun fact: In my world, counting starts from 0, not 1!
+  🧑‍💻 ALL OF MY PROJECTS ARE AVAILABLE AT <a href="https://github.com/mziyak" target="_blank" style="color:#00ffff;">GitHub</a><br><br>
+  💎 HOW TO REACH ME:: <a href="mailto:mohammadziyakhalifa@gmail.com" style="color:#00ffff;">mohammadziyakhalifa@gmail.com</a><br><br>
+  ⚡ FUN FACT: In my world, counting starts from 0, not 1!
 </p>
 
 ---
-
 <h3 align="left" style="font-family:monospace; color:#00ffff; text-shadow: 0px 0px 15px #00ffff;">
-🤖 Tech Stack
+🤖 SKILLS
 </h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,mysql,postgres,anaconda,flask,html,css,js,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
 </p>
+
 
 ---
 
@@ -35,5 +39,5 @@ Hi 👋 HR's, I'm Mohammad Ziya Khalifa
 ---
 
 <h3 align="left" style="font-family:monospace; color:#00ffff; text-shadow: 0px 0px 15px #00ffff;">
-🚀 These are my projects!
+🚀 These are my projects!👇
 </h3>
