@@ -4,7 +4,7 @@ Hi 👋 HR's, I'm Mohammad Ziya Khalifa
 
 <p align="left" style="font-family:monospace; color:#00ffff; text-shadow: 0px 0px 15px #00ffff;">
   Exploring the world of AI and Data Science, one algorithm at a time.<br><br>
-  🧑‍💻 ALL OF MY PROJECTS ARE AVAILABLE AT <a href="https://github.com/mziyak" target="_blank" style="color:#00ffff;">GitHub</a><br><br>
+  🧑‍💻 ALL OF MY PROJECTS ARE AVAILABLE AT <a href="[https://github.com/mziyak](https://github.com/mziyak?tab=repositories)" target="_blank" style="color:#00ffff;">GitHub</a><br><br>
   💎 HOW TO REACH ME:: <a href="mailto:mohammadziyakhalifa@gmail.com" style="color:#00ffff;">mohammadziyakhalifa@gmail.com</a><br><br>
   ⚡ FUN FACT: In my world, counting starts from 0, not 1!
 </p>
