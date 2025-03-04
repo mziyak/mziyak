@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mziyak.mziyak" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+HRs!+👋;+I'm+Mohammad+Ziya+Khalifa!;+An+Upcoming+AI+Engineer!;+Click+to+view+my+projects!&color=#600000&glow=1" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+HRs!+👋;+I'm+Mohammad+Ziya+Khalifa!;+An+Upcoming+AI+Engineer!;+Click+to+view+my+projects!&color=#600000&glow=1" />
 </h1>
 
 <h3 align="center">An Upcoming AI Engineer/Data Scientist</h3>
