@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+HRs!+👋;+I'm+Mohammad+Ziya+Khalifa!;+An+Upcoming+AI+Engineer!;+Click+to+view+my+projects!&color=#600000&glow=1" />
 </h1>
 
-<h3 align="center">An AI Engineer</h3>
+<h3 align="center">An Upcoming AI Engineer/Data Scientist</h3>
 
 <br/>
 
