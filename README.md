@@ -18,7 +18,7 @@
 
 ⚡ Fun fact **In my world, counting starts from 0, not 1!**
 
-📫 Connect with me:
+📫 Connect with me on:
 
 <a href="mailto:mohammadziyakhalifa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
