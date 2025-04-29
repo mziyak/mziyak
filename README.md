@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **MACHINE LEARNING PROJECTS**
+ 🔭 I’m currently working on **TWO MAJOR MACHINE LEARNING PROJECTS 1)GEN AI MOBILE RECOMMENDATION SYSTEM 2)LIVER DISEASE PREDICTION**
  
  🌱 I’m currently learning **DEEP LEARNING**
  
